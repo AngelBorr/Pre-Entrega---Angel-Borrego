@@ -1,0 +1,15 @@
+.header{
+    background-image: url(./src/assets/img/fondoHeader4.jpg);
+    width: 100%;
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tituloHeader{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: 2.5lh;
+    
+}

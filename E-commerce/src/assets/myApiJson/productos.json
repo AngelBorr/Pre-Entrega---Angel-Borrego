@@ -1,0 +1,232 @@
+{
+    "productos":
+    [
+        {
+            "id": 1,
+            "nombre": "Tarjeta Azul s/logo",
+            "descripcion": "#",
+            "categoria": "accesorios",
+            "precio": 400,
+            "img": "#"
+
+        },
+        {
+            "id": 2,
+            "nombre": "Bolso Sport",
+            "descripcion": "#",
+            "categoria": "accesorios",
+            "precio": 10000,
+            "img": "#"
+
+        },
+        {
+            "id": 3,
+            "nombre": "Tarjetas Arbitro c/logo",
+            "descripcion": "#",
+            "categoria": "accesorios",
+            "precio": 700,
+            "img": "#"
+
+        },
+        {
+            "id": 4,
+            "nombre": "Muñequeras x2",
+            "descripcion": "#",
+            "categoria": "accesorios",
+            "precio": 900,
+            "img": "#"
+
+        },
+        {
+            "id": 5,
+            "nombre": "Monedas Sorteo",
+            "descripcion": "#",
+            "categoria": "accesorios",
+            "precio": 1100,
+            "img": "#"
+
+        },
+        {
+            "id": 6,
+            "nombre": "Medias Arbitro Lisas",
+            "descripcion": "#",
+            "categoria": "arbitro",
+            "precio": 1500,
+            "img": "#"
+
+        },
+        {
+            "id": 7,
+            "nombre": "Medias Arbitro Oficial",
+            "descripcion": "#",
+            "categoria": "arbitro",
+            "precio": 2000,
+            "img": "#"
+
+        },
+        {
+            "id": 8,
+            "nombre": "Short Arbitro Oficial",
+            "descripcion": "#",
+            "categoria": "arbitro",
+            "precio": 3500,
+            "img": "#"
+
+        },
+        {
+            "id": 9,
+            "nombre": "Camiseta Arbitro Oficial",
+            "descripcion": "#",
+            "categoria": "arbitro",
+            "precio": 5000,
+            "img": "#"
+
+        },
+        {
+            "id": 10,
+            "nombre": "Camiseta Arbitro Mujer Oficial",
+            "descripcion": "#",
+            "categoria": "arbitro",
+            "precio": 500,
+            "img": "#"
+
+        },
+        {
+            "id": 11,
+            "nombre": "Banderines con Funda Arbitro c/rombos",
+            "descripcion": "#",
+            "categoria": "banderines",
+            "precio": 4500,
+            "img": "#"
+
+        },
+        {
+            "id": 12,
+            "nombre": "Banderines con Funda Arbitro c/cuadrados",
+            "descripcion": "#",
+            "categoria": "banderines",
+            "precio": 4500,
+            "img": "#"
+
+        },
+        {
+            "id": 13,
+            "nombre": "Banderines Arbitro c/triangulos",
+            "descripcion": "#",
+            "categoria": "banderines",
+            "precio": 4000,
+            "img": "#"
+
+        },
+        {
+            "id": 14,
+            "nombre": "Silbato de Metal con collarin",
+            "descripcion": "#",
+            "categoria": "silvatos",
+            "precio": 1200,
+            "img": "#"
+
+        },
+        {
+            "id": 15,
+            "nombre": "Silvato FOX40 c/correa",
+            "descripcion": "#",
+            "categoria": "silvatos",
+            "precio": 4500,
+            "img": "#"
+
+        },
+        {
+            "id": 16,
+            "nombre": "Silvato FOX40 Classic",
+            "descripcion": "#",
+            "categoria": "silvatos",
+            "precio": 3900,
+            "img": "#"
+
+        },
+        {
+            "id": 17,
+            "nombre": "Silvato Acme Tornado Oblicuo",
+            "descripcion": "#",
+            "categoria": "silvatos",
+            "precio": 5500,
+            "img": "#"
+
+        },
+        {
+            "id": 18,
+            "nombre": "Kit de Silvatos FOX40",
+            "descripcion": "#",
+            "categoria": "silvatos",
+            "precio": 15000,
+            "img": "#"
+
+        },
+        {
+            "id": 19,
+            "nombre": "Pack X3 Medias Sport",
+            "descripcion": "#",
+            "categoria": "deporte",
+            "precio": 1500,
+            "img": "#"
+
+        },
+        {
+            "id": 20,
+            "nombre": "Polainas Compresion Running",
+            "descripcion": "#",
+            "categoria": "deporte",
+            "precio": 1500,
+            "img": "#"
+
+        },
+        {
+            "id": 21,
+            "nombre": "Remera Sport Algodon Fitmen",
+            "descripcion": "#",
+            "categoria": "deporte",
+            "precio": 2500,
+            "img": "#"
+
+        },
+        {
+            "id": 22,
+            "nombre": "Sudadera Sport Musculosa Fitmen",
+            "descripcion": "#",
+            "categoria": "deporte",
+            "precio": 2100,
+            "img": "#"
+
+        },
+        {
+            "id": 23,
+            "nombre": "Remera Termica Manga Larga",
+            "descripcion": "#",
+            "categoria": "deporte",
+            "precio": 3500,
+            "img": "#"
+
+        },
+        {
+            "id": 24,
+            "nombre": "Calza Compresion Deportiva",
+            "descripcion": "#",
+            "categoria": "deporte",
+            "precio": 4500,
+            "img": "#"
+
+        },
+        {
+            "id": 25,
+            "nombre": "Campera Lady Black",
+            "descripcion": "#",
+            "categoria": "deporte",
+            "precio": 14000,
+            "img": "#"
+
+        }
+        
+
+    ]
+}
