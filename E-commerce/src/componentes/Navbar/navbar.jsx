@@ -1,5 +1,6 @@
 import style from './navbar.module.scss';
 
+const contadorCarrito = JSON.parse(localStorage.getItem("Productos en Carrito"))
 
 const Navbar = ({icono}) => {
     return (
@@ -15,7 +16,7 @@ const Navbar = ({icono}) => {
                         <a href="#">
                             <div>
                                 <img className={style.imgCarrito} src={icono} alt="" />
-                                <span className={style.contadorCarrito}>0</span>
+                                <span className={style.contadorCarrito}>{contadorCarrito}</span>
                             </div>
                         </a>        
                     </li>

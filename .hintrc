@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "development"
+  ],
+  "browserslist": [
+    "defaults",
+    "not ie 11",
+    "not edge <= 107",
+    "not ios_saf <= 16.1",
+    "not safari <= 16.1",
+    "not and_chr <= 107",
+    "not chrome <= 107",
+    "not firefox <= 106",
+    "not samsung <= 18",
+    "not and_ff <= 106",
+    "not opera <= 91"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-webkit-tap-highlight-color"
+        ]
+      }
+    ],
+    "css-prefix-order": "off"
+  }
+}
