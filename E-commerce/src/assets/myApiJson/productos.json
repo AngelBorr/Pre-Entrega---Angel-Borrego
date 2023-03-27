@@ -7,7 +7,7 @@
             "descripcion": "#",
             "categoria": "accesorios",
             "precio": 400,
-            "img": "./imgApi/tarjeta-azul1-3fe576e04a9dda1e0c16432968051199-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/tarjeta-azul1-3fe576e04a9dda1e0c16432968051199-320-0.webp"
         },
         {
             "id": 2,
@@ -15,7 +15,7 @@
             "descripcion": "#",
             "categoria": "accesorios",
             "precio": 10000,
-            "img": "./imgApi/bolso_athix_deco_lime1-9fd42ee9fddfd9e47116775337426586-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/bolso_athix_deco_lime1-9fd42ee9fddfd9e47116775337426586-320-0.webp"
 
         },
         {
@@ -24,7 +24,7 @@
             "descripcion": "#",
             "categoria": "accesorios",
             "precio": 700,
-            "img": "./imgApi/polish_20210919_1850272411-a7f2ceceec2d25ff4a16320883531796-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/polish_20210919_1850272411-a7f2ceceec2d25ff4a16320883531796-320-0.webp"
 
         },
         {
@@ -33,7 +33,7 @@
             "descripcion": "#",
             "categoria": "accesorios",
             "precio": 900,
-            "img": "./imgApi/munequeras-athix-todas-20211-7a347c7458c291a45e16070312472998-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/munequeras-athix-todas-20211-7a347c7458c291a45e16070312472998-320-0.webp"
 
         },
         {
@@ -42,7 +42,7 @@
             "descripcion": "#",
             "categoria": "accesorios",
             "precio": 1100,
-            "img": "./imgApi/fifa-metal-coin1-804ba64bde7e1548d116676596688936-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/fifa-metal-coin1-804ba64bde7e1548d116676596688936-320-0.webp"
 
         },
         {
@@ -51,7 +51,7 @@
             "descripcion": "#",
             "categoria": "arbitro",
             "precio": 1500,
-            "img": "./imgApi/medias-lisas-am-neg-roj-cel-nar1-14a357eb43ab67b23016342297527100-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/medias-lisas-am-neg-roj-cel-nar1-14a357eb43ab67b23016342297527100-320-0.webp"
 
         },
         {
@@ -60,7 +60,7 @@
             "descripcion": "#",
             "categoria": "arbitro",
             "precio": 2000,
-            "img": "./imgApi/medias-arbitro-diadora-todas-20191-792cfcb7b8cd1e53e615557104798540-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/medias-arbitro-diadora-todas-20191-792cfcb7b8cd1e53e615557104798540-320-0.webp"
 
         },
         {
@@ -69,7 +69,7 @@
             "descripcion": "#",
             "categoria": "arbitro",
             "precio": 3500,
-            "img": "./imgApi/short-de-arbitro-athix-asociacion-argentina-de-arbitros-negro-221023700240010-11-956203974922b4290a16686044073951-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/short-de-arbitro-athix-asociacion-argentina-de-arbitros-negro-221023700240010-11-956203974922b4290a16686044073951-320-0.webp"
 
         },
         {
@@ -78,7 +78,7 @@
             "descripcion": "#",
             "categoria": "arbitro",
             "precio": 5000,
-            "img": "./imgApi/clipdropimage1662657430669_31-7ce93ca43c1f6bb6b516628285975669-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/clipdropimage1662657430669_31-7ce93ca43c1f6bb6b516628285975669-320-0.webp"
 
         },
         {
@@ -87,7 +87,7 @@
             "descripcion": "#",
             "categoria": "arbitro",
             "precio": 500,
-            "img": "./imgApi/camiseta-athix-mujer-20221-1640cac2b5da9ddb1e16631942113838-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/camiseta-athix-mujer-20221-1640cac2b5da9ddb1e16631942113838-320-0.webp"
 
         },
         {
@@ -96,7 +96,7 @@
             "descripcion": "#",
             "categoria": "banderines",
             "precio": 4500,
-            "img": "./imgApi/j1i5tymgubwtrwjosyoc-view311-1c0bfac0e98c2082ae16213796945397-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/j1i5tymgubwtrwjosyoc-view311-1c0bfac0e98c2082ae16213796945397-320-0.webp"
 
         },
         {
@@ -105,7 +105,7 @@
             "descripcion": "#",
             "categoria": "banderines",
             "precio": 4500,
-            "img": "./imgApi/8x1swnjcnffmyb0o61f9-view1-7604a91a3272ddacaf16213796297723-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/8x1swnjcnffmyb0o61f9-view1-7604a91a3272ddacaf16213796297723-320-0.webp"
 
         },
         {
@@ -114,52 +114,52 @@
             "descripcion": "#",
             "categoria": "banderines",
             "precio": 4000,
-            "img": "./imgApi/8e1c093a72ffeed192e32ed4eacd89df361785777e9fb129bf5791e8298ddef2255271-c79aaf9e67633440a316756928266777-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/8e1c093a72ffeed192e32ed4eacd89df361785777e9fb129bf5791e8298ddef2255271-c79aaf9e67633440a316756928266777-320-0.webp"
 
         },
         {
             "id": 14,
             "nombre": "Silbato de Metal con collarin",
             "descripcion": "#",
-            "categoria": "silvatos",
+            "categoria": "silbatos",
             "precio": 1200,
-            "img": "./imgApi/5ba2271114670-102466-500x5001-18a48b882b7cf23d7416364661933237-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/5ba2271114670-102466-500x5001-18a48b882b7cf23d7416364661933237-320-0.webp"
 
         },
         {
             "id": 15,
             "nombre": "Silvato FOX40 c/correa",
             "descripcion": "#",
-            "categoria": "silvatos",
+            "categoria": "silbatos",
             "precio": 4500,
-            "img": "./imgApi/mini_lanyard_black_fox40usa_1000x1000_2af1d5a8-a259-4a3b-859a-21aeb5439a23_480x4801-624cf054c66512d9a816437500522470-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/mini_lanyard_black_fox40usa_1000x1000_2af1d5a8-a259-4a3b-859a-21aeb5439a23_480x4801-624cf054c66512d9a816437500522470-320-0.webp"
 
         },
         {
             "id": 16,
             "nombre": "Silvato FOX40 Classic",
             "descripcion": "#",
-            "categoria": "silvatos",
+            "categoria": "silbatos",
             "precio": 3900,
-            "img": "./imgApi/fox-classic1-d5cb94cd768e33f5a215561386729590-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/fox-classic1-d5cb94cd768e33f5a215561386729590-320-0.webp"
 
         },
         {
             "id": 17,
             "nombre": "Silvato Acme Tornado Oblicuo",
             "descripcion": "#",
-            "categoria": "silvatos",
+            "categoria": "silbatos",
             "precio": 5500,
-            "img": "./imgApi/acme-oblicuo-41-4fff7b3539c484dd2b16485967157802-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/acme-oblicuo-41-4fff7b3539c484dd2b16485967157802-320-0.webp"
 
         },
         {
             "id": 18,
             "nombre": "Kit de Silvatos FOX40",
             "descripcion": "#",
-            "categoria": "silvatos",
+            "categoria": "silbatos",
             "precio": 15000,
-            "img": "./imgApi/fox_40_whistle_3_pack-j0imvf1-6cd2d3a0e36e5ec3b415561426138380-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/fox_40_whistle_3_pack-j0imvf1-6cd2d3a0e36e5ec3b415561426138380-320-0.webp"
 
         },
         {
@@ -168,7 +168,7 @@
             "descripcion": "#",
             "categoria": "deporte",
             "precio": 1500,
-            "img": "./imgApi/16010-115144712061-07845b240a3f43e4f215589164824158-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/16010-115144712061-07845b240a3f43e4f215589164824158-320-0.webp"
 
         },
         {
@@ -177,7 +177,7 @@
             "descripcion": "#",
             "categoria": "deporte",
             "precio": 1500,
-            "img": "./imgApi/pantorri-011-ab8a8480c6a2bcb93016007149168783-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/pantorri-011-ab8a8480c6a2bcb93016007149168783-320-0.webp"
 
         },
         {
@@ -186,7 +186,7 @@
             "descripcion": "#",
             "categoria": "deporte",
             "precio": 2500,
-            "img": "./imgApi/01a-ladyfit-hombre-1-remera1-5a6905ad1c1c0fb60616702454868040-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/01a-ladyfit-hombre-1-remera1-5a6905ad1c1c0fb60616702454868040-320-0.webp"
 
         },
         {
@@ -195,7 +195,7 @@
             "descripcion": "#",
             "categoria": "deporte",
             "precio": 2100,
-            "img": "./imgApi/clipdropimage167206671718921-abbd3a5dd3cd7bde5916720673277111-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/clipdropimage167206671718921-abbd3a5dd3cd7bde5916720673277111-320-0.webp"
 
         },
         {
@@ -204,7 +204,7 @@
             "descripcion": "#",
             "categoria": "deporte",
             "precio": 3500,
-            "img": "./imgApi/camiseta-termica-diadora-20171-40f33bb02e4bd2b52215565788892989-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/camiseta-termica-diadora-20171-40f33bb02e4bd2b52215565788892989-320-0.webp"
 
         },
         {
@@ -213,7 +213,7 @@
             "descripcion": "#",
             "categoria": "deporte",
             "precio": 4500,
-            "img": "./imgApi/calza-compresion-mka1-0058a2cf309ad4216516446860957200-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/calza-compresion-mka1-0058a2cf309ad4216516446860957200-320-0.webp"
 
         },
         {
@@ -222,7 +222,7 @@
             "descripcion": "#",
             "categoria": "deporte",
             "precio": 14000,
-            "img": "./imgApi/campera-negra-snag-woman21-491daf179715bb0a1a16511866634986-320-0.webp"
+            "img": "./src/assets/myApiJson/imgApi/campera-negra-snag-woman21-491daf179715bb0a1a16511866634986-320-0.webp"
 
         }
         
