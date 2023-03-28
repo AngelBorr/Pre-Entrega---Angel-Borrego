@@ -30,7 +30,7 @@ const CardDetall = () => {
         <main className="containerMain">
           <div className='d-flex justify-content-around align-content-around flex-wrap cardProduct borderRounded h-100 card-group'>
 
-              <div className='cardProduct__description' style={{width: '50%', height: '300px', border: '2px solid black', padding: '10px', margin: '10px'}}>
+              <div className='cardProduct__description' style={{width: '50%', border: '2px solid black', padding: '10px', margin: '10px'}}>
                 <div class="row">
                   <div class="col">
                     <img src={producto.img} alt="" className='card-img-top' style={{width: '100%', height: '275px', padding: '5px'}}/>
@@ -39,7 +39,7 @@ const CardDetall = () => {
                   <div class="col">
                     <strong className='cardProduct__description__price' >$ {producto.precio}</strong>
                     <h6 className='card-title'>{producto.nombre}</h6>
-                    <p className='cardProduct__description__text card-body' style={{height: '90px'}}>Descripcion Producto: {producto.descripcion}</p>
+                    <p className='cardProduct__description__text card-body' >Descripcion Producto: {producto.descripcion}</p>
                     <p>Posicion Catalogo: {producto.id}</p>
                     <p>Categoria: {producto.categoria}</p>
                     <div>
