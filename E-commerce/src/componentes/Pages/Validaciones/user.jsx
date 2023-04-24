@@ -6,7 +6,7 @@ const User = () => {
 
     const {inputNombre, setInputNombre, inputApellido, setInputApellido, inputEmail, setInputEmail,
             inputDireccion, setInputDireccion, inputPais, setInputPais, inputProvincia, setInputProvincia, 
-            inputCodigoPostal, setInputCodigoPostal} = useContext(dataContext)
+            inputCodigoPostal, setInputCodigoPostal, inputPiso, setInputPiso, inputDepartamento, setInputDepartamento} = useContext(dataContext)
 
     console.log(inputNombre)
 
@@ -33,6 +33,22 @@ const User = () => {
             <div className="col-12">
                 <label for="inputAddress" className="form-label">Direccion</label>
                 <input type="text" className="form-control" id="inputAddress" placeholder="Direccion" onChange={(e) => setInputDireccion(e.target.value)} value={inputDireccion}/>
+            </div>
+
+            <div class="col-sm-6">
+                <label for="firstName" class="form-label">Piso</label>
+                <input type="text" class="form-control" id="firstName" placeholder="" required onChange={(e) => setInputPiso(e.target.value)} value={inputPiso}/>
+                <div class="invalid-feedback">
+                    El Piso ingresado no es Valido.
+                </div>
+            </div>
+                    
+            <div class="col-sm-6">
+                <label for="lastName" class="form-label">Departamento</label>
+                <input type="text" class="form-control" id="lastName" placeholder="" required onChange={(e) => setInputDepartamento(e.target.value)} value={inputDepartamento}/>
+                <div class="invalid-feedback">
+                    El Departamento ingresado no es Valido.
+                </div>
             </div>
             
             <div className="col-md-6">

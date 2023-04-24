@@ -62,6 +62,8 @@ const DataProvider = ({ children }) => {
   const [inputApellido, setInputApellido] = useState()
   const [inputEmail, setInputEmail] = useState()
   const [inputDireccion, setInputDireccion] = useState()
+  const [inputPiso, setInputPiso] = useState()
+  const [inputDepartamento, setInputDepartamento] = useState()
   const [inputPais, setInputPais] = useState()
   const [inputProvincia, setInputProvincia] = useState()
   const [inputCodigoPostal, setInputCodigoPostal] = useState()
@@ -76,7 +78,7 @@ const DataProvider = ({ children }) => {
                                   productosFirebasePedidos, setProductosFirebasePedidos, numCar, precioTotal, ivaProductos, 
                                   subTotal, inputNombre, setInputNombre, inputApellido, setInputApellido, inputEmail, setInputEmail,
                                   inputDireccion, setInputDireccion, inputPais, setInputPais, inputProvincia, setInputProvincia, 
-                                  inputCodigoPostal, setInputCodigoPostal}}>
+                                  inputCodigoPostal, setInputCodigoPostal, inputPiso, setInputPiso, inputDepartamento, setInputDepartamento}}>
       {children}
     </dataContext.Provider>
   );

@@ -4,10 +4,12 @@ import { dataContext } from "../../Contexts/CartContext"
 
 const Pedido = () => {
 
-    const { productosFirebasePedidos, setProductosFirebasePedidos, precioTotal, ivaProductos, subTotal, numCar} = useContext(dataContext)
+    const { productosFirebasePedidos, precioTotal, ivaProductos, subTotal, numCar,
+        inputNombre, inputApellido, inputEmail, inputDireccion, inputPais, inputProvincia,
+        inputCodigoPostal, inputPiso, inputDepartamento} = useContext(dataContext)
 
 
-  return (
+    return (
         <div>
 
             <div className="bg-light" style={{display: "grid", justifyContent: "space-around", gridTemplateColumns: "60% 40%"}}>                         
@@ -27,9 +29,8 @@ const Pedido = () => {
 
                                 {/* <!-- SE RELLENA CON JAVASCRIPT --> */}
                                 {
-                                    productosFirebasePedidos.map((producto) => (
-                                       
-                                       <li className="list-group-item d-flex justify-content-between">
+                                    productosFirebasePedidos.map((producto) => (                                       
+                                        <li className="list-group-item d-flex justify-content-between">
                                             <span>{producto.nombre}</span>
                                             <strong id={producto.id}>${producto.precio}</strong>
                                         </li> 
@@ -88,7 +89,7 @@ const Pedido = () => {
                                 <div className="row g-3">
                                     <div class="col-sm-6">
                                         <label for="firstName" class="form-label">Nombre</label>
-                                        <input type="text" class="form-control" id="Nombre" placeholder="Nombre" value="" required/>
+                                        <input type="text" class="form-control" id="Nombre" placeholder="Nombre" value={inputNombre} required/>
                                         <div class="invalid-feedback">
                                             El Nombre ingresado no es Valido.
                                         </div>
@@ -96,7 +97,7 @@ const Pedido = () => {
                     
                                     <div class="col-sm-6">
                                         <label for="lastName" class="form-label">Apellido</label>
-                                        <input type="text" class="form-control" id="Apellido" placeholder="Apellido" value="" required/>
+                                        <input type="text" class="form-control" id="Apellido" placeholder="Apellido" value={inputApellido} required/>
                                         <div class="invalid-feedback">
                                             El Apellido ingresado no es Valido.
                                         </div>
@@ -106,7 +107,7 @@ const Pedido = () => {
                                         <label for="username" class="form-label">E-Mail Registrado (Usuario)</label>
                                         <div class="input-group has-validation">
                                             <span class="input-group-text">@</span>
-                                            <input type="text" class="form-control" id="username" placeholder="Correo Electronico" required/>
+                                            <input type="text" class="form-control" id="username" placeholder="Correo Electronico" required value={inputEmail}/>
                                             <div class="invalid-feedback">
                                                 El E-mail ingresado no es Valido.
                                             </div>
@@ -114,16 +115,8 @@ const Pedido = () => {
                                     </div>
                     
                                     <div class="col-12">
-                                        <label for="email" class="form-label">Email <span class="text-muted">(Optional)</span></label>
-                                        <input type="email" class="form-control" id="email" placeholder="you@example.com"/>
-                                        <div class="invalid-feedback">
-                                            Please enter a valid email address for shipping updates.
-                                        </div>
-                                    </div>
-                    
-                                    <div class="col-12">
                                         <label for="address" class="form-label">Direccion</label>
-                                        <input type="text" class="form-control" id="address" placeholder="Ejemplo 1234" required/>
+                                        <input type="text" class="form-control" id="address" placeholder="Ejemplo 1234" required value={inputDireccion}/>
                                         <div class="invalid-feedback">
                                             Por favor introduzca su direccion de envio.
                                         </div>
@@ -131,7 +124,7 @@ const Pedido = () => {
 
                                     <div class="col-sm-6">
                                         <label for="firstName" class="form-label">Piso</label>
-                                        <input type="text" class="form-control" id="firstName" placeholder="" value="" required/>
+                                        <input type="text" class="form-control" id="firstName" placeholder="" value={inputPiso} required/>
                                         <div class="invalid-feedback">
                                             El Piso ingresado no es Valido.
                                         </div>
@@ -139,28 +132,24 @@ const Pedido = () => {
                     
                                     <div class="col-sm-6">
                                         <label for="lastName" class="form-label">Departamento</label>
-                                        <input type="text" class="form-control" id="lastName" placeholder="" value="" required/>
+                                        <input type="text" class="form-control" id="lastName" placeholder="" value={inputDepartamento} required/>
                                         <div class="invalid-feedback">
                                             El Departamento ingresado no es Valido.
                                         </div>
                                     </div>
                     
-                                    <div class="col-12">
-                                        <label for="address2" class="form-label">Address 2 <span class="text-muted">(Optional)</span></label>
-                                        <input type="text" class="form-control" id="address2" placeholder="Apartment or suite"/>
-                                    </div> 
-                    
                                     <div class="col-md-5">
                                         <label for="Pais" class="form-label">Pais</label>
-                                        <select class="form-select" id="Pais" required>
-                                            <option value=""></option>
+                                        <input type="text" class="form-control" id="lastName" placeholder="" value={inputPais} required/>
+                                        {/* <select class="form-select" id="Pais" required>
+                                            <option value={inputPais}></option>
                                             <option>Argentina</option>
                                             <option>Bolivia</option>
                                             <option>Brasil</option>
                                             <option>Chile</option>
                                             <option>Paraguay</option>
                                             <option>Uruguay</option>
-                                        </select>
+                                        </select> */}
                                         <div class="invalid-feedback">
                                             Seleccione un país válido.
                                         </div>
@@ -168,8 +157,9 @@ const Pedido = () => {
 
                                     <div class="col-md-4">
                                         <label for="provincias" class="form-label">Provincia</label>
-                                        <select class="form-select" id="provincias" required>
-                                            <option value=""></option>
+                                        <input type="text" class="form-control" id="lastName" placeholder="" value={inputProvincia} required/>
+                                        {/* <select class="form-select" id="provincias" required>
+                                            <option value={inputProvincia}></option>
                                             <option>Buenos Aires</option>
                                             <option>Ciudad Autónoma de Buenos Aires</option>
                                             <option>Catamarca</option>
@@ -194,7 +184,7 @@ const Pedido = () => {
                                             <option>Santiago del Estero</option>
                                             <option>Tierra del Fuego</option>
                                             <option>Tucumán</option>
-                                        </select>
+                                        </select> */}
                                         <div class="invalid-feedback">
                                             Seleccione una Provincia válido.
                                         </div>
@@ -202,7 +192,7 @@ const Pedido = () => {
                     
                                     <div class="col-md-3">
                                         <label for="Cpostal" class="form-label">C. Postal</label>
-                                        <input type="text" class="form-control" id="Cpostal" placeholder="CP" required/>
+                                        <input type="text" class="form-control" id="Cpostal" placeholder="CP" required value={inputCodigoPostal}/>
                                         <div class="invalid-feedback">
                                             Ingrese un Codigo Postal Valido.
                                         </div>
