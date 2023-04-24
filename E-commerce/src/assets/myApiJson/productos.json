@@ -7,7 +7,7 @@
             "descripcion": "La Tarjeta de color Azul es empleada por los árbitros generalmente en Fútbol 5 o Futsal. Significa la expulsión del terreno de juego de un jugador con la posibilidad de que éste sea sustituido por un compañero aunque tambien se usa para expulsar temporalmente a un jugador que luego puede volver a ingresar.",
             "categoria": "accesorios",
             "precio": 400,
-            "img": "./src/assets/myApiJson/imgApi/tarjeta-azul1-3fe576e04a9dda1e0c16432968051199-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/tarjeta-azul1-3fe576e04a9dda1e0c16432968051199-320-0.webp"
         },
         {
             "id": 2,
@@ -15,7 +15,7 @@
             "descripcion": "Bolso Sport ATHIX \n Dimensiones aproximadas Largo: 59 cm, Ancho: 24 cm, Alto: 28 cm. \n Amplio compartimiento principal forrado con cierre, bolsillo lateral izquierdo. \n Tira con ajuste regulable y desmontable, asas para transporte negro. \n Logo ATHIX estampado.",
             "categoria": "accesorios",
             "precio": 10000,
-            "img": "./src/assets/myApiJson/imgApi/bolso_athix_deco_lime1-9fd42ee9fddfd9e47116775337426586-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/bolso_athix_deco_lime1-9fd42ee9fddfd9e47116775337426586-320-0.webp"
 
         },
         {
@@ -24,7 +24,7 @@
             "descripcion": "Juego de tarjetas logos color, para arbitro con grilla para anotaciones en el reverso. \n Medidas Tarjetas 10,5cm x 7.5cm, material: Plástico alto impacto",
             "categoria": "accesorios",
             "precio": 700,
-            "img": "./src/assets/myApiJson/imgApi/polish_20210919_1850272411-a7f2ceceec2d25ff4a16320883531796-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/polish_20210919_1850272411-a7f2ceceec2d25ff4a16320883531796-320-0.webp"
 
         },
         {
@@ -33,7 +33,7 @@
             "descripcion": "MUÑEQUERAS \n Brinda comodidad y frescura al deporte. \n Composición: 85% Algodón 15% Poliester \n Medidas: Alto 10 cm, Ancho 8 cm",
             "categoria": "accesorios",
             "precio": 900,
-            "img": "./src/assets/myApiJson/imgApi/munequeras-athix-todas-20211-7a347c7458c291a45e16070312472998-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/munequeras-athix-todas-20211-7a347c7458c291a45e16070312472998-320-0.webp"
 
         },
         {
@@ -42,7 +42,7 @@
             "descripcion": "Moneda de árbitro de calidad con un acabado dorado sólido. \n Diámetro 4cm | Grosor: 0.5cm \n Material: Metal",
             "categoria": "accesorios",
             "precio": 1100,
-            "img": "./src/assets/myApiJson/imgApi/fifa-metal-coin1-804ba64bde7e1548d116676596688936-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/fifa-metal-coin1-804ba64bde7e1548d116676596688936-320-0.webp"
 
         },
         {
@@ -51,7 +51,7 @@
             "descripcion": "Medias para Arbitro Lisas \n Excelentes para combinar con cualquier prenda \n Colores Disponibles: Amarillo Fluo - Negras - Rojas - Celestes - Naranja Fluo",
             "categoria": "arbitro",
             "precio": 1500,
-            "img": "./src/assets/myApiJson/imgApi/medias-lisas-am-neg-roj-cel-nar1-14a357eb43ab67b23016342297527100-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/medias-lisas-am-neg-roj-cel-nar1-14a357eb43ab67b23016342297527100-320-0.webp"
 
         },
         {
@@ -60,7 +60,7 @@
             "descripcion": "Colores Disponibles: Negras - Naranjas - Amarillas - Celestes \n INDUMENTARIA OFICIAL ARBITROS AFA",
             "categoria": "arbitro",
             "precio": 2000,
-            "img": "./src/assets/myApiJson/imgApi/medias-arbitro-diadora-todas-20191-792cfcb7b8cd1e53e615557104798540-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/medias-arbitro-diadora-todas-20191-792cfcb7b8cd1e53e615557104798540-320-0.webp"
 
         },
         {
@@ -69,7 +69,7 @@
             "descripcion": " SHORT ARBITRO OFICIAL \n TALLE S:   CINTURA 34 X LARGO 39 CM \n TALLE M:  CINTURA 36 X LARGO 41 CM \n TALLE L:  CINTURA 38 X LARGO 43 CM \n TALLE XL: CINTURA 39  X LARGO 45 CM \n 3 Bolsillos (2 Frontales / 1 Trasero)",
             "categoria": "arbitro",
             "precio": 3500,
-            "img": "./src/assets/myApiJson/imgApi/short-de-arbitro-athix-asociacion-argentina-de-arbitros-negro-221023700240010-11-956203974922b4290a16686044073951-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/short-de-arbitro-athix-asociacion-argentina-de-arbitros-negro-221023700240010-11-956203974922b4290a16686044073951-320-0.webp"
 
         },
         {
@@ -78,7 +78,7 @@
             "descripcion": "Camisetas ATHIX Arbitros \n Colores Disponibles: Negro - Amarillo - Naranja - Celeste \n INDUMENTARIA OFICIAL ARBITROS AFA \n MEDIDAS CAMISETAS APROX EN CM \n TALLE S: SISA 46 (AXILA A AXILA) X 64 LARGO \n TALLE M: SISA 50 (AXILA A AXILA) X 68 LARGO \n TALLE L: SISA 53 (AXILA A AXILA) X 70 LARGO \n TALLE XL: SISA 55 (AXILA A AXILA) X 73 LARGO",
             "categoria": "arbitro",
             "precio": 5000,
-            "img": "./src/assets/myApiJson/imgApi/clipdropimage1662657430669_31-7ce93ca43c1f6bb6b516628285975669-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/clipdropimage1662657430669_31-7ce93ca43c1f6bb6b516628285975669-320-0.webp"
 
         },
         {
@@ -87,7 +87,7 @@
             "descripcion": "Camisetas ATHIX Arbitros 2022/23 \n Colores Disponibles: Negro - Amarillo - Celeste \n INDUMENTARIA OFICIAL ARBITROS AFA \n MEDIDAS CAMISETAS APROX EN CM \n TALLE S: SISA 42 (AXILA A AXILA) X 64 LARGO \n TALLE M: SISA 44 (AXILA A AXILA) X 65 LARGO \n TALLE L: SISA 46 (AXILA A AXILA) X 66 LARGO \n TALLE XL: SISA 48 (AXILA A AXILA) X 67 LARGO",
             "categoria": "arbitro",
             "precio": 500,
-            "img": "./src/assets/myApiJson/imgApi/camiseta-athix-mujer-20221-1640cac2b5da9ddb1e16631942113838-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/camiseta-athix-mujer-20221-1640cac2b5da9ddb1e16631942113838-320-0.webp"
 
         },
         {
@@ -96,7 +96,7 @@
             "descripcion": "Banderines Profesionales a Rombos \n Mango antideslizante \n Funda para su cuidado y traslado \n Caño de Metal de 49cm \n Medidas paño: 40x30cm \n INCLUYE: 2 BANDERAS Y LA FUNDA.",
             "categoria": "banderines",
             "precio": 4500,
-            "img": "./src/assets/myApiJson/imgApi/j1i5tymgubwtrwjosyoc-view311-1c0bfac0e98c2082ae16213796945397-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/j1i5tymgubwtrwjosyoc-view311-1c0bfac0e98c2082ae16213796945397-320-0.webp"
 
         },
         {
@@ -105,7 +105,7 @@
             "descripcion": "Banderines Profesionales a Cuadros \n Mango antideslizante \n Funda para su cuidado y traslado \n Caño de Metal de 49cm \n Medidas paño: 40x30cm \n INCLUYE: 2 BANDERAS Y LA FUNDA.",
             "categoria": "banderines",
             "precio": 4500,
-            "img": "./src/assets/myApiJson/imgApi/8x1swnjcnffmyb0o61f9-view1-7604a91a3272ddacaf16213796297723-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/8x1swnjcnffmyb0o61f9-view1-7604a91a3272ddacaf16213796297723-320-0.webp"
 
         },
         {
@@ -114,7 +114,7 @@
             "descripcion": "Modelo Triángulos \n Marca: Regla 18 \n Mango antideslizante \n Funda para su cuidado y traslado \n Cabo de metal \n Medidas paño: 46x35cm \n INCLUYE: 2 BANDERAS Y LA FUNDA. \n Origen: Argentina",
             "categoria": "banderines",
             "precio": 4000,
-            "img": "./src/assets/myApiJson/imgApi/8e1c093a72ffeed192e32ed4eacd89df361785777e9fb129bf5791e8298ddef2255271-c79aaf9e67633440a316756928266777-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/8e1c093a72ffeed192e32ed4eacd89df361785777e9fb129bf5791e8298ddef2255271-c79aaf9e67633440a316756928266777-320-0.webp"
 
         },
         {
@@ -123,7 +123,7 @@
             "descripcion": "Silbato de Metal con Collarin Striker \n - con bolilla, incluye correa. \n - Especial para entrenamiento o arbitraje \n Made in China",
             "categoria": "silbatos",
             "precio": 1200,
-            "img": "./src/assets/myApiJson/imgApi/5ba2271114670-102466-500x5001-18a48b882b7cf23d7416364661933237-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/5ba2271114670-102466-500x5001-18a48b882b7cf23d7416364661933237-320-0.webp"
 
         },
         {
@@ -132,7 +132,7 @@
             "descripcion": "El silbato sin bola Fox 40 Mini es la versión compacta del Fox 40 Classic con una boquilla más pequeña a proporción. \n Tiene el famoso diseño de tres cámaras sin bola y el ultra agudo sonido del Classic. \n Su pitido se escucha en el estadio más atronador, no escaparás a su sonido! \n El sonido se escuchará hasta 1,5km de distancia. Incluye Correa \n Diseño: 3 cámaras, Potencia sonora: 110 dB. \n Marca: FOX40 Classic, Origen: CANADA",
             "categoria": "silbatos",
             "precio": 4500,
-            "img": "./src/assets/myApiJson/imgApi/mini_lanyard_black_fox40usa_1000x1000_2af1d5a8-a259-4a3b-859a-21aeb5439a23_480x4801-624cf054c66512d9a816437500522470-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/mini_lanyard_black_fox40usa_1000x1000_2af1d5a8-a259-4a3b-859a-21aeb5439a23_480x4801-624cf054c66512d9a816437500522470-320-0.webp"
 
         },
         {
@@ -141,7 +141,7 @@
             "descripcion": "El Fox 40® Classic ™ es la referencia de arbitros y entrenadores de todos los niveles, profesionales de rescate y seguridad general en todo el mundo. \n Impecable, consistente y fiable. Cuanto más soplas, más fuerte es el sonido. \n Las cámaras están diseñadas para autolimpiarse cuando están sumergidas en agua, el sonido se escuchará hasta 1,5km de distancia. \n Diseño: 3 cámaras, potencia sonora: 115 dB. \n Marca: FOX40 Classic, Origen: CANADA",
             "categoria": "silbatos",
             "precio": 3900,
-            "img": "./src/assets/myApiJson/imgApi/fox-classic1-d5cb94cd768e33f5a215561386729590-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/fox-classic1-d5cb94cd768e33f5a215561386729590-320-0.webp"
 
         },
         {
@@ -150,7 +150,7 @@
             "descripcion": "ACME Tornado 635 Silbato posee un tono unico. \n Con su triple salida provee un sonido potente y penetrante. \n Diseño moderno y comodo. Potencia: 120dB. \n Origen: ENGLAND",
             "categoria": "silbatos",
             "precio": 5500,
-            "img": "./src/assets/myApiJson/imgApi/acme-oblicuo-41-4fff7b3539c484dd2b16485967157802-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/acme-oblicuo-41-4fff7b3539c484dd2b16485967157802-320-0.webp"
 
         },
         {
@@ -159,7 +159,7 @@
             "descripcion": "Incluye 3 silbatos con tonos de silbato únicos para múltiples campos o Futsal. La moneda es latón antiguo fundido a presión Todos los componentes se pueden almacenar en el duradero y práctico estuche. \n El kit incluye: \n - Silbato Fox 40® Classic ™ (115 dB) \n - Silbato Fox 40 Sonik Blast® CMG® (120 dB) \n - Silbato Fox 40® Pearl ™ (90 dB) \n - Soga para silbato \n - Moneda sorteo metal FOX \n - Estuche FOX",
             "categoria": "silbatos",
             "precio": 15000,
-            "img": "./src/assets/myApiJson/imgApi/fox_40_whistle_3_pack-j0imvf1-6cd2d3a0e36e5ec3b415561426138380-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/fox_40_whistle_3_pack-j0imvf1-6cd2d3a0e36e5ec3b415561426138380-320-0.webp"
 
         },
         {
@@ -168,7 +168,7 @@
             "descripcion": "Incluye: \n Pacl incluye: 3 pares medias Sport Diadora \n TAMAÑO UNICO: 39/44",
             "categoria": "deporte",
             "precio": 1500,
-            "img": "./src/assets/myApiJson/imgApi/16010-115144712061-07845b240a3f43e4f215589164824158-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/16010-115144712061-07845b240a3f43e4f215589164824158-320-0.webp"
 
         },
         {
@@ -177,7 +177,7 @@
             "descripcion": "POLAINAS PANTORRILLERA DE COMPRESIÓN DIADORA \n Mejoran la distribución del flujo sanguíneo en la zona de compresión. \n Estimulan el drenaje de las toxinas que se generan con el esfuerzo. Evitan la pérdida de calor en la zona de las pantorrillas y el pie. \n Las prendas compresivas logran reducir la fatiga muscular y que la producción de ácido láctico se concentre en la musculatura no pase tan rápido a la sangre. Es decir, implican una mejora en la eficacia de nuestros músculos: se cansan menos, hacen que nos sintamos más livianos al correr.",
             "categoria": "deporte",
             "precio": 1500,
-            "img": "./src/assets/myApiJson/imgApi/pantorri-011-ab8a8480c6a2bcb93016007149168783-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/pantorri-011-ab8a8480c6a2bcb93016007149168783-320-0.webp"
 
         },
         {
@@ -186,7 +186,7 @@
             "descripcion": "REMERA SPORT FITMEN \n MEDIDAS en cm: \n TALLE S: SISA 50 (AXILA A AXILA) X 67 LARGO \n TALLE M: SISA 53 (AXILA A AXILA) X 69 LARGO \n TALLE L: SISA 55 (AXILA A AXILA) X 71 LARGO \n TALLE XL: SISA 57 (AXILA A AXILA) X 73 LARGO",
             "categoria": "deporte",
             "precio": 2500,
-            "img": "./src/assets/myApiJson/imgApi/01a-ladyfit-hombre-1-remera1-5a6905ad1c1c0fb60616702454868040-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/01a-ladyfit-hombre-1-remera1-5a6905ad1c1c0fb60616702454868040-320-0.webp"
 
         },
         {
@@ -195,7 +195,7 @@
             "descripcion": "Sudaderas Musculosas Sport en Algodon Ultralivianas \n MEDIDAS en cm:\n TALLE S: SISA 50 (AXILA A AXILA) X 67 LARGO \n TALLE M: SISA 53 (AXILA A AXILA) X 69 LARGO \n TALLE L: SISA 55 (AXILA A AXILA) X 71 LARGO \n TALLE XL: SISA 57 (AXILA A AXILA) X 73 LARGO",
             "categoria": "deporte",
             "precio": 2100,
-            "img": "./src/assets/myApiJson/imgApi/clipdropimage167206671718921-abbd3a5dd3cd7bde5916720673277111-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/clipdropimage167206671718921-abbd3a5dd3cd7bde5916720673277111-320-0.webp"
 
         },
         {
@@ -204,7 +204,7 @@
             "descripcion": "CAMISETA TERMICA COLOR NEGRO. MANGAS LARGAS \n Caracteristicas: Su dise­ño anatomico permite eliminar el acido latico y la humedad corporal, mejorando el rendimiento en entrenamiento y arbitraje. Ayuda tambien a mejorar la circulacion sanguinea y la fatiga muscular. \n MEDIDAS(SIN ESTIRAR) CEDEN UN 20% MAS APROX: \n TALLE S: SISA 43 (AXILA A AXILA) X 63 LARGO \n TALLE M: SISA 45 (AXILA A AXILA) X 65 LARGO \n TALLE L: SISA 49 (AXILA A AXILA) X 69 LARGO \n TALLE XL: SISA 50 (AXILA A AXILA) X 71 LARGO \n TALLE XXL: SISA 51 (AXILA A AXILA) X 73 LARGO",
             "categoria": "deporte",
             "precio": 3500,
-            "img": "./src/assets/myApiJson/imgApi/camiseta-termica-diadora-20171-40f33bb02e4bd2b52215565788892989-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/camiseta-termica-diadora-20171-40f33bb02e4bd2b52215565788892989-320-0.webp"
 
         },
         {
@@ -213,7 +213,7 @@
             "descripcion": "Calza Deportiva Termica \n Caracteristicas: \n -Poliéster 90% – Spandex 10% \n -Diseño anatómico \n -Calor terapéutico \n -Compresión \n -Optimiza el rendimiento",
             "categoria": "deporte",
             "precio": 4500,
-            "img": "./src/assets/myApiJson/imgApi/calza-compresion-mka1-0058a2cf309ad4216516446860957200-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/calza-compresion-mka1-0058a2cf309ad4216516446860957200-320-0.webp"
 
         },
         {
@@ -222,7 +222,7 @@
             "descripcion": "Campera confeccionada en poliester y algodón con doble relleno diseñados para mantener una temperatura corporal óptima. \n Cuello alto y capucha. Bolsillo con cierres. Ajustable en la parte inferior para un calzado perfecto. \n Talle S: 63cm x 48cm de ancho. Manga: 64cm \n Talle M: 64cm x 49cm de ancho. Manga: 65cm \n Talle L: 65cm x 50cm de ancho. Manga: 65cm \n Talle XL: 68cm x 53cm de ancho. Manga: 67cm",
             "categoria": "deporte",
             "precio": 14000,
-            "img": "./src/assets/myApiJson/imgApi/campera-negra-snag-woman21-491daf179715bb0a1a16511866634986-320-0.webp"
+            "img": "/src/assets/myApiJson/imgApi/campera-negra-snag-woman21-491daf179715bb0a1a16511866634986-320-0.webp"
 
         }
         

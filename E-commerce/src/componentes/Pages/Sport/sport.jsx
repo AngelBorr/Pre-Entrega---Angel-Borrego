@@ -1,7 +1,10 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import { Link } from 'react-router-dom'
+import { dataContext } from '../../Contexts/CartContext'
 
-const Sport = ({productos}) => {
+const Sport = () => {
+
+    const { productos } = useContext(dataContext)
 
     const categoriaReferee = productos.filter(producto => {
         return producto.categoria === "deporte"
@@ -18,8 +21,7 @@ const Sport = ({productos}) => {
                         <img src={producto.img} alt="" className='card-img-top' style={{width: '100%', height: '220px', padding: '5px'}}/>
                         <strong className='cardProduct__description__price' >$ {producto.precio}</strong>
                         <h6 className='card-title'>{producto.nombre}</h6>                        
-                        <p>Posicion Catalogo: {key}</p>
-                        <p>Categoria: {producto.categoria}</p>                        
+                                               
                     </div>
                 </Link>
             ))}

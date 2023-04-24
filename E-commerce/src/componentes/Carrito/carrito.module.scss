@@ -17,3 +17,17 @@ h2{
     }
 }
 
+.btnCartcontainer{
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+    .btnCart{
+        display: flex;
+        justify-content: end;
+
+        .btnClearCart{
+            padding-right: 20px;
+        }
+    }
+}
+
